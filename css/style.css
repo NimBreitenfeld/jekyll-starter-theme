@@ -4,11 +4,11 @@
 
 
 body {
-  font-family: Helvetica,Arial,sans-serif;
+  font-family: Century Gothic,Arial,sans-serif;
 }
 
 a, a:visited {
-  color: navy;
+  color: lightblue;
   text-decoration: none;
 }
 
@@ -30,7 +30,7 @@ a:hover {
 
 #header .small {
   font-size:    90%;
-  color:        greenyellow;
+  color:        peachpuff;
   padding-left: 15px;
 }
 
