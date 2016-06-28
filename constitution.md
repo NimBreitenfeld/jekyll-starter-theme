@@ -5,7 +5,7 @@ layout: default
 
 [#THE CONSTITUTION OF THE UNITED STATES OF AMERICA, 1787](http://www.gutenberg.org/cache/epub/5/pg5.txt)
 
-![Photo of the US Constitution](https://upload.wikimedia.org/wikipedia/commons/6/6c/Constitution_of_the_United_States%2C_page_1.jpg)
+![Photo of the US Constitution](http://politicoid.us/wp-content/uploads/2012/07/constitution_of_the_united_states_we_the_people_banner.jpg)
 
 
 We the people of the United States, in Order to form a more perfect Union,
