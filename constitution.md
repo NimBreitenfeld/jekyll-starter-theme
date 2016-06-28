@@ -3,7 +3,7 @@ title: US Constitution
 layout: default
 ---
 
-[#THE CONSTITUTION OF THE UNITED STATES OF AMERICA, 1787](http://www.gutenberg.org/cache/epub/5/pg5.txt)
+[# THE CONSTITUTION OF THE UNITED STATES OF AMERICA, 1787](http://www.gutenberg.org/cache/epub/5/pg5.txt)
 
 ![Photo of the US Constitution](http://politicoid.us/wp-content/uploads/2012/07/constitution_of_the_united_states_we_the_people_banner.jpg)
 
