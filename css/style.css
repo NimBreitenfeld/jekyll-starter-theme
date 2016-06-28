@@ -5,6 +5,7 @@
 
 body {
   font-family: Century Gothic,Arial,sans-serif;
+  background-color: darkgrey;
 }
 
 a, a:visited {
@@ -21,11 +22,13 @@ a:hover {
 
 #header {
   padding: 4px;
+  color: whitesmoke;
 }
 
 #header .big {
   font-size:   140%;
   font-weight: bold;
+  color: whitesmoke;
 }
 
 #header .small {
