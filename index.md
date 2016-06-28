@@ -28,6 +28,12 @@ This is a list:
 - Apple
 - Blueberry
 
+This is a haiku:
+
+Bergamot in cups
+once mine. Outside, rain whispers.
+Tender memories.
+(c) NB 2016
 
 
 Just getting started with Markdown?
