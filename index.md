@@ -30,10 +30,10 @@ This is a list:
 
 This is a haiku:
 
-Bergamot in cups
-once mine. Outside, rain whispers.
-Tender memories.
-(c) NB 2016
+>Bergamot in cups
+>once mine. Outside, rain whispers.
+>Tender memories.
+>(c) NB 2016
 
 
 Just getting started with Markdown?
